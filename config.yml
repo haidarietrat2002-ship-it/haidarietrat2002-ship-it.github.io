@@ -1,0 +1,7 @@
+ Title: My IT Learning Roadmap
+ Description: WMC Jekyll Project
+ Theme: minima
+
+ header_pages:
+  - roadmap.md
+  - projects.md
