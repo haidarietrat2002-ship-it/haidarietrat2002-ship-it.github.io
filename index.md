@@ -1,16 +1,31 @@
-My IT Learning Roadmap
-Overview of My Project and Roadmap
-In this project, I will show you my learnings, skills, and projects.
-I present them using a roadmap format, making it easy to get a clear overview of my progress.
+---
+layout: default
+title: My IT Learning Roadmap
+---
 
-In addition to technical skills, I have also developed management skills and the ability to multitask, which are crucial for an IT technician.
-Meanwhile, there will be blog posts documenting my experiences while learning these skills during my time at the academy.
+# My IT Learning Roadmap
 
-This project was developed as part of the Web Programming & Mobile Computing (WMC) module.
-The goal is to install, configure, and customize the flat-file CMS Grav, creating a professional platform to document my IT learning progress, programming knowledge, and training projects.
+![Roadmap](assets/images/roadmap.jpg)
 
-Additionally, this project challenges me to learn new technologies, improve my technical skills, and deepen my understanding of content management systems.
+Welcome! This site shows my **IT skills, projects, and learning journey** in a roadmap format.  
+I also document my experiences in blog posts.
 
-Navigation
-Learning Roadmap
-Projects
+---
+
+## Navigation
+
+- [Learning Roadmap](roadmap.html)  
+- [Projects](projects.html)  
+- [Blog](blog.html)
+
+---
+
+## Example Code
+
+```bash
+git clone https://github.com/username/it-learning-roadmap.git
+cd it-learning-roadmap
+git add .
+git commit -m "Update site"
+git push
+```

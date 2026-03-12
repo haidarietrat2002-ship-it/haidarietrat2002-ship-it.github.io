@@ -3,5 +3,6 @@
  Theme: minima
 
  header_pages:
+  - index.md
   - roadmap.md
   - projects.md
