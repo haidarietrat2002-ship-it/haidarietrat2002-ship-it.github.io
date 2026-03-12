@@ -8,7 +8,7 @@ title: Learning Roadmap
 This page shows the main areas I am learning during my IT training.
 
 ## System Administration
-- Linux basics
+- Linux
 - File systems
 - User management
 - Shell scripting
@@ -23,7 +23,7 @@ This page shows the main areas I am learning during my IT training.
 Languages I am currently learning:
 - Python
 - JavaScript
-- Bash scripting
+- C++
 
 ## Web Development
 - HTML

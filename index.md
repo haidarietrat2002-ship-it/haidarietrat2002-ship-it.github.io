@@ -23,7 +23,6 @@ I also document my experiences in blog posts.
 ## Example Code
 
 ```bash
-git clone https://github.com/username/it-learning-roadmap.git.
 cd it-learning-roadmap
 git add .
 git commit -m "Update site"
