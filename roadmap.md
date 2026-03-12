@@ -34,4 +34,4 @@ Languages I am currently learning:
 ## My Goal
 My goal is to become a skilled **IT technician with strong programming and system administration knowledge**.
 
-[Back to Home](index.html)
+[Back to Home](index.md)

@@ -22,4 +22,4 @@ Here are some of the projects I have worked on during my IT training.
 - Networking labs
 - Linux server configuration
 
-[Back to Home](index.html)
+[Back to Home](index.md)

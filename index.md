@@ -14,16 +14,16 @@ I also document my experiences in blog posts.
 
 ## Navigation
 
-- [Learning Roadmap](roadmap.html)  
-- [Projects](projects.html)  
-- [Blog](blog.html)
+- [Learning Roadmap](roadmap.md)  
+- [Projects](projects.md)  
+
 
 ---
 
 ## Example Code
 
 ```bash
-git clone https://github.com/username/it-learning-roadmap.git
+git clone https://github.com/username/it-learning-roadmap.git.
 cd it-learning-roadmap
 git add .
 git commit -m "Update site"
