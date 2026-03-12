@@ -9,8 +9,7 @@ Here are some of the projects I have worked on during my IT training.
 
 ## WMC CMS Project
 - Installed and customized **Grav CMS**
-- Created pages and themes
-- Documented my learning process
+- Created my own visitencard 
 
 ## GitHub Pages Website
 - Built a static site with **Jekyll**
